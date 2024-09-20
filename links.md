@@ -22,5 +22,16 @@ The article "GPG for Dummies" explains the basics of GPG (GNU Privacy Guard), a 
 ### 5. [The Complete Guide to Regular Expressions (Regex)](https://coderpad.io/blog/development/the-complete-guide-to-regular-expressions-regex/)
 The article "The Complete Guide to Regular Expressions (Regex)" provides a comprehensive overview of how to use regular expressions for pattern matching in text. It explains the syntax and key components of regex, such as literals, metacharacters, quantifiers, and character classes.
 
+### 6. [File Permissions in Linux / Unix](https://www.guru99.com/file-permissions.html)  
+This article details how file permissions and ownership function in Linux. It explains how to use the `chmod` command to change file or directory permissions, the `chown` command to modify file ownership, and the `chgrp` command to change the group owner of a file.
+
+### 7. [Linux Crash Course - Formatting & Mounting Storage Volumes](https://www.youtube.com/watch?v=2Z6ouBYfZr8)  
+This video provides a brief tutorial on formatting disk partitions and mounting storage volumes. It includes commands like `lsblk` for listing block devices, `fdisk` for partitioning, `mkfs` for file system creation, `mount` and `umount` for handling mounted file systems, and `ncdu` for disk usage analysis.
+
+
+
+
+
+
 <br>
 <hr>
