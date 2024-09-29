@@ -29,3 +29,11 @@ ZCZC W03 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W03 60 L05 Quiz related including studying
 ZCZC W03 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 60 L13 Assignment #03
+ZCZC W04 10 L00 General, etc.
+ZCZC W04 10 L01 SCELE/Discord related
+ZCZC W04 90 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 15 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 60 L05 Quiz related including studying
+ZCZC W04 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 30 L07 Demo related
+ZCZC W04 10 L23 Bash, Regex, SED, AWK.

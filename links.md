@@ -28,7 +28,11 @@ This article details how file permissions and ownership function in Linux. It ex
 ### 7. [Linux Crash Course - Formatting & Mounting Storage Volumes](https://www.youtube.com/watch?v=2Z6ouBYfZr8)  
 This video provides a brief tutorial on formatting disk partitions and mounting storage volumes. It includes commands like `lsblk` for listing block devices, `fdisk` for partitioning, `mkfs` for file system creation, `mount` and `umount` for handling mounted file systems, and `ncdu` for disk usage analysis.
 
+### 8. [Linux Commands Cheat Sheet](https://www.geeksforgeeks.org/linux-commands-cheat-sheet/)  
+This cheat sheet covers the most crucial Linux/Unix commands. It includes commands for managing files, handling permissions, working with environment variables, managing users, networking, and processes, among other key functions. It's an essential resource for both beginners and experienced users.
 
+### 9. [SCP Remote to Local](https://linuxhint.com/scp-remote-to-local/)  
+This article explains how to use the `scp` command in Linux to transfer files or directories between a remote machine and a local one. It walks through the syntax and options, providing examples to show how files can be securely copied between computers using SSH.
 
 
 
