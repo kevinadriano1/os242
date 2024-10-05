@@ -34,7 +34,11 @@ This cheat sheet covers the most crucial Linux/Unix commands. It includes comman
 ### 9. [SCP Remote to Local](https://linuxhint.com/scp-remote-to-local/)  
 This article explains how to use the `scp` command in Linux to transfer files or directories between a remote machine and a local one. It walks through the syntax and options, providing examples to show how files can be securely copied between computers using SSH.
 
+### 10. [Virtual Memory](https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&si=LpfguzkJMdjLQQHn)<br>
+This playlist covers the topic of virtual memory in Linux, discussing key concepts such as page tables, address translation, and the translation lookaside buffer (TLB).
 
+### 11. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2&index=1&ab_channel=NesoAcademy)<br>
+This video offers a concise overview of cooperating processes, shared memory systems, and the potential occurrence of race conditions.
 
 
 <br>
