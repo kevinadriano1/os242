@@ -40,6 +40,12 @@ This playlist covers the topic of virtual memory in Linux, discussing key concep
 ### 11. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2&index=1&ab_channel=NesoAcademy)<br>
 This video offers a concise overview of cooperating processes, shared memory systems, and the potential occurrence of race conditions.
 
+### 12. **[Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)**  
+This article covers essential concepts related to processes in operating systems. It defines what processes are and details their components, which include the stack, heap, text, and data segments. It also outlines the life cycle of a process and introduces the Process Control Block (PCB).
+
+### 13. **[The fork() function in C](https://youtu.be/cex9XrZCU14?si=FlXa_X26n8g6IA1f)**  
+This YouTube video provides a clear explanation of the `fork()` function in C programming. Additionally, viewers can explore a featured playlist that delves deeper into Unix processes in C, covering topics such as the `wait()` function, `exec()` function, and pipes.
+
 
 <br>
 <hr>
