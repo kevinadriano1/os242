@@ -46,6 +46,11 @@ This article covers essential concepts related to processes in operating systems
 ### 13. **[The fork() function in C](https://youtu.be/cex9XrZCU14?si=FlXa_X26n8g6IA1f)**  
 This YouTube video provides a clear explanation of the `fork()` function in C programming. Additionally, viewers can explore a featured playlist that delves deeper into Unix processes in C, covering topics such as the `wait()` function, `exec()` function, and pipes.
 
+### 14. **[Introduction to Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)**  
+   This article offers an in-depth explanation of process synchronization in multi-process systems, emphasizing the need to coordinate processes to avoid problems like race conditions and data inconsistencies.
+
+### 15. **[Peterson's Algorithm for Process Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/)**  
+   This article explores Peterson's Algorithm, which provides a way to achieve mutual exclusion between two processes, especially in the producer-consumer scenario. It explains how the algorithm uses shared memory and flags, ensuring that each process waits for the other to complete its critical section before proceeding.
 
 <br>
 <hr>
