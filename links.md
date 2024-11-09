@@ -52,5 +52,11 @@ This YouTube video provides a clear explanation of the `fork()` function in C pr
 ### 15. **[Peterson's Algorithm for Process Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/)**  
    This article explores Peterson's Algorithm, which provides a way to achieve mutual exclusion between two processes, especially in the producer-consumer scenario. It explains how the algorithm uses shared memory and flags, ensuring that each process waits for the other to complete its critical section before proceeding.
 
+### 16. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+This article provides a comprehensive overview of CPU scheduling in operating systems. It explains the concept of process scheduling, the need for CPU scheduling algorithms, and the objectives of these algorithms. Some of the algorithms discussed in the article are First Come First Serve (FCFS), Shortest Job First (SJF), Longest Job First (LJF), Priority Scheduling, Round Robin, Shortest Remaining Time First (SRTF), and more.
+
+### 17. [Linux From Scratch Version 12.0](https://www.linuxfromscratch.org/lfs/view/12.0/)<br>
+Linux From Scratch 12.0 is a book that teaches you how to build your own Linux distribution from scratch. It guides you through the process of compiling and installing the essential components of a Linux system, such as the kernel, the GNU toolchain, and the basic utilities. By following the book, you will learn not only how Linux works, but also how to customize it to your own needs and preferences.
+
 <br>
 <hr>
