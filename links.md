@@ -58,5 +58,8 @@ This article provides a comprehensive overview of CPU scheduling in operating sy
 ### 17. [Linux From Scratch Version 12.0](https://www.linuxfromscratch.org/lfs/view/12.0/)<br>
 Linux From Scratch 12.0 is a book that teaches you how to build your own Linux distribution from scratch. It guides you through the process of compiling and installing the essential components of a Linux system, such as the kernel, the GNU toolchain, and the basic utilities. By following the book, you will learn not only how Linux works, but also how to customize it to your own needs and preferences.
 
+### 18.(https://www.youtube.com/watch?v=I4EWvMFj37g)
+A short introduction video to what the bash shell is. A good video for new Linux users.
+
 <br>
 <hr>
